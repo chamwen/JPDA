@@ -35,10 +35,11 @@ This code is corresponding to our IJCNN 2020 paper below:
 ```
 @Inproceedings{wenz20djpmmd,
   title={Discriminative Joint Probability Maximum Mean Discrepancy (DJP-MMD) for Domain Adaptation},
-  author={Zhang, Wen and Wu, Dongrui},
-  booktitle={Int'l Joint Conf. on Neural Networks, IJCNN},
+  author={Wen, Zhang and Dongrui Wu},
+  booktitle={Proc. Int'l Joint Conf. on Neural Networks},
   year={2020},
   month=jul,
+  pages={1--8},
   address={Glasgow, UK}
 }
 ```
